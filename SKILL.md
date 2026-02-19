@@ -3,8 +3,9 @@ name: cultural-code-switch-dialogue
 description: Write dialogue that authentically incorporates multiple cultural registers (languages, references, idioms) to illustrate immigrant/diaspora experience and cultural hybridity—without falling into st...
 license: MIT
 metadata:
-  version: 1.0.1
+  version: 1.0.3732
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - callbacks
 - comedy
